@@ -59,10 +59,11 @@ const Hero: React.FC = () => {
       }`}
     >
       <img
-        src="./images/prof-photo.jpeg"
+        src="/images/prof-photo.jpeg"
         alt="Ahmed Rashmi"
         className="w-32 h-32 rounded-full mb-4 sm:mb-6 object-cover"
-      />
+    />
+
       <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-serif font-semibold text-gray-900 mb-3">
         Ahmed Rashmi
       </h1>
