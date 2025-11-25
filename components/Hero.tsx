@@ -59,7 +59,7 @@ const Hero: React.FC = () => {
       }`}
     >
       <img
-        src="https://picsum.photos/seed/ahmed/128/128"
+        src="/prof photo.jpeg"
         alt="Ahmed Rashmi"
         className="w-32 h-32 rounded-full mb-4 sm:mb-6 object-cover"
       />
@@ -86,8 +86,7 @@ const Hero: React.FC = () => {
         ))}
       </div>
       <a
-        href="#works"
-        onClick={handleScrollClick}
+        href="https://cyberguard-portfolio-qesld29.public.builtwithrocket.new"
         className="bg-gray-900 text-white font-semibold px-8 py-3 rounded-full transition-all duration-300 ease-in-out hover:bg-gray-800 hover:scale-105 hover:shadow-lg"
       >
         View My Work
