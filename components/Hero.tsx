@@ -59,7 +59,7 @@ const Hero: React.FC = () => {
       }`}
     >
       <img
-        src="public\images\prof-photo.jpeg"
+        src="\images\prof-photo.jpeg"
         alt="Ahmed Rashmi"
         className="w-32 h-32 rounded-full mb-4 sm:mb-6 object-cover"
     />
